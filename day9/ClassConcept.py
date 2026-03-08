@@ -1,6 +1,4 @@
 class HDFC:
-
-
     branch = "Nanganallur"
     Gold_ROI = 10
 
